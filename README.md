@@ -1,1 +1,1 @@
-# BankApp---UniProject
+A Java-based banking application with a graphical user interface built using Swing. Developed as part of university coursework, it allows users to create and delete accounts, deposit funds, view all accounts, and display recent transactions sorted by amount using a custom sorting algorithm. Designed to demonstrate GUI development, OOP principles, and custom logic implementation in Java.
